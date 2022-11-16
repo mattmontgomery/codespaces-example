@@ -9,6 +9,11 @@
     "server": "npm run dev"
   },
   "customizations": {
+    "vscode": {
+      "extensions": [
+        "esbenp.prettier-vscode"
+      ]
+    },
     "codespaces": {
       "openFiles": [
         "pages/index.js"
